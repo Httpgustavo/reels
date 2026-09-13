@@ -19,7 +19,7 @@ source.include_exts = py,png,jpg,kv,atlas
 version = 1.0
 
 # (list) Requerimientos - librerías Python que usa tu app
-requirements = python3,kivy,yt-dlp,certifi,urllib3,charset_normalizer,idna,requests,brotli,mutagen,websockets,pycryptodomex
+requirements = python3,kivy,yt-dlp,certifi,urllib3,charset_normalizer,idna,requests,mutagen,websockets,pycryptodomex
 
 # (str) Orientación soportada
 orientation = portrait
